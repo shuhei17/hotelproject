@@ -1,0 +1,4 @@
+<h1>ホテル詳細ページ</h1>
+<%= image_tag(@hotel.picture_url, width: 600) if @hotel.picture.present? %>
+<p><%= @hotel.name %></p>
+<p><%= @hotel.description %></p>

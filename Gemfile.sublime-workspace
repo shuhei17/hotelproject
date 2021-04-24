@@ -1,0 +1,203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/makinoshuhei/projects/hotel-project/app/models/hotel.rb",
+		"/Users/makinoshuhei/projects/hotel-project/app/models/review.rb",
+		"/Users/makinoshuhei/projects/hotel-project/Gemfile",
+		"/Users/makinoshuhei/projects/hotel-project/config/routes.rb",
+		"/Users/makinoshuhei/projects/hotel-project/app/views/reviews/new.html.erb",
+		"/Users/makinoshuhei/projects/hotel-project/app/views/reviews/index.html.erb",
+		"/Users/makinoshuhei/projects/hotel-project/app/views/hotels/show.html.erb",
+		"/Users/makinoshuhei/projects/hotel-project/app/views/hotels/index.html.erb",
+		"/Users/makinoshuhei/projects/hotel-project/app/controllers/contacts_controller.rb",
+		"/Users/makinoshuhei/projects/hotel-project/app/controllers/hotels_controller.rb",
+		"/Users/makinoshuhei/projects/hotel-project/app/views/contacts/new.html.erb",
+		"/Users/makinoshuhei/projects/hotel-project/app/views/contacts/show.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/config/routes.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/companies/new.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/companies/show.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/companies/edit.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/models/company.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/models/staff.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/controllers/companies_controller.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/assets/stylesheets/application.css",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/comments/_form.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/controllers/ideas_controller.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/comments/show.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/layouts/application.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/controllers/application_controller.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/ideas/show.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/assets/stylesheets/ideas.scss",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/ideas/index.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/ideas/_form.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/pages/info.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/views/companies/index.html.erb",
+		"/Users/makinoshuhei/projects/railsgirls/app/models/comment.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/models/idea.rb",
+		"/Users/makinoshuhei/projects/railsgirls/app/uploaders/picture_uploader.rb",
+		"/Users/makinoshuhei/projects/railsgirls/config/environments/development.rb",
+		"/Users/makinoshuhei/projects/railsgirls/config/initializers/rails_admin.rb",
+		"/Users/makinoshuhei/projects/railsgirls/Gemfile",
+		"/Users/makinoshuhei/.zshrc",
+		"/Users/makinoshuhei/.rbenv/version"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 409.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
